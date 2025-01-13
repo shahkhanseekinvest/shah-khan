@@ -43,7 +43,7 @@ Investment professional (AXA IM | UMB Bank | APG AM) turned Data Scientist with 
 
 ## 🎓 Education
 - MSc. in Corporate Finance and Banking, **Vrije Universiteit Amsterdam**
-- BS in Statistics & Business Administration, **University of Missouri (cum laude)**
+- BS in Statistics & Business Administration, **University of Missouri-Columbia (cum laude)**
 - CAIA Charterholder
 
 ## 📫 Get in Touch
