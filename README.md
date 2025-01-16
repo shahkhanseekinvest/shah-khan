@@ -40,7 +40,7 @@ Investment professional (AXA IM | UMB Bank | APG AM) turned Data Scientist with 
 - Co-Founder, Data & ESG Analytics **@ SeekInvest**
 - Founding Full Stack Engineer **@ ShortSnap.info**
 - ESG Investment Strategist **@ AXA Investment Managers**
-- Previous roles at **UMB Bank, Windmill Investments, and APG Asset Management**
+- Previous quant roles at **UMB Bank, Windmill Investments, and APG Asset Management**
 
 ## 🎓 Education
 - MSc. in Corporate Finance and Banking, **Vrije Universiteit Amsterdam**
