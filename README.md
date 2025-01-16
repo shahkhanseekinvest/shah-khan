@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shahnkhan/)
 
 ## About Me
-Investment professional (AXA IM | UMB Bank | APG AM) turned Data Scientist with 13+ years of experience merging quantitative analysis with investment management. I specialize in building data-driven solutions for complex financial problems, with a focus on ESG analytics and investment intelligence.
+Investment professional (AXA IM | UMB Bank | APG AM) turned Data Scientist with 13+ years of experience blending quantitative analysis with data engineering. Specialize in building data-driven solutions for complex financial problems, with a focus on ESG analytics and investment intelligence.
 
 ## 🔭 Current Focus
 - Co-founder at SeekInvest, developing data analytics frameworks for investment due diligence
@@ -29,11 +29,12 @@ Investment professional (AXA IM | UMB Bank | APG AM) turned Data Scientist with 
 - **Tools & APIs:** Finnhub, Polygon, Refinitiv, ISS, Sustainalytics, MSCI, Bloomberg, S&P Global, Google Sheet & Cloud Vision Document AI
 - **Version Control:** Git, GitHub
 
-## 🚀 Featured Projects
-- **Values Alignment Scoring System**: End-to-end ML pipeline for portfolio analysis using AWS
-- **Risk Score Prediction Engine**: ML-based system for competitor analysis using time-series data
-- **Financial Data Platform**: High-performance platform for institutional clients
-- **ESG Analytics Pipeline**: Automated processing system for 9,000+ sustainability reports
+
+- ## 🚀 Featured Projects
+- **Values Alignment Scoring Engine:** Developed an end-to-end ML pipeline for portfolio analysis using AWS, integrating multi-source data and delivering results through scalable APIs for financial advisors.  
+- **Risk Alignment Scoring Engine:** Designed an ML-based system for generating competitor-like scores using time-series data, enabling portfolio analysis at 95% accuracy through real-time APIs.  
+- **ShortSnap.Info:** Built and launched a high-performance financial analysis platform that sources data from vendors like Polygon, FINRA, and SEC's EDGAR though automated data extraction and processing pipelines, reducing manual intervention by 70%, and deployed RESTful APIs using Flask to enable seamless risk analysis and user interactions.  
+- **ESG Analytics Pipeline:** Automated the processing of 9,000+ sustainability reports, creating a scalable system to extract, clean, and analyze ESG data for portfolio evaluation.  
 
 ## 📈 Professional Background
 - Co-Founder, Data & ESG Analytics **@ SeekInvest**
