@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shahnkhan/)
 
 ## About Me
-Investor (AXA IM | UMB Bank | APG AM) turned Data Scientist with 13+ years of experience blending quantitative analysis with data engineering. Specialize in building data-driven solutions for complex financial problems, with a focus on ESG analytics and investment intelligence.
+Investor (AXA IM | UMB Bank | APG AM) turned Data Scientist with 13+ years of experience blending quantitative analysis with data engineering. Specialize in building data-driven solutions for complex financial problems, focusing on intentionality, impact, and climate.
 
 ## 🔭 Current Focus
 - Co-founder at SeekInvest, developing data analytics frameworks for investment due diligence
